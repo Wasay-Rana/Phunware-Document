@@ -12,7 +12,7 @@ const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
               <div className="flex-shrink-0 flex items-center">
                 <FileBox className="h-8 w-8 text-indigo-600" />
                 <span className="ml-2 text-2xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 text-transparent bg-clip-text">
-                  MBOX Processor
+                  Phunware - Email Agent
                 </span>
               </div>
               <div className="hidden sm:ml-8 sm:flex sm:space-x-8">
